@@ -10,6 +10,9 @@ A decentralized voting application built on the Cybermiles blockchain A boilerpl
     
     https://chrome.google.com/webstore/detail/metamask-for-cmt/hmiddckbbijmdkamphkgkelnjjdkicck
 
+## Install Nodejs
+
+   Download from https://nodejs.org/en/ and install by steps
 
 ## Setup
 ```
